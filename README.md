@@ -2,4 +2,6 @@
 
 ##algorithm 算法
 ###designpatters  设计模式
-###juc      java并发包
+####singleton  单例模式
+####proxy  代理模式
+###juc   java并发
